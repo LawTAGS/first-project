@@ -1,0 +1,19 @@
+.response{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+    width: fit-content;
+}
+
+.response-bar{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: space-between;
+    margin: 6px;
+    height: 32px;
+    align-items: center;
+}
+
+/* Login */
